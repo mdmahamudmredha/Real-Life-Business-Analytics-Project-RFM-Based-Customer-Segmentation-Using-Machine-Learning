@@ -86,8 +86,3 @@ This project demonstrates how RFM and ML clustering can be combined to generate 
 
 ---
 
-
----
-
-Want to reuse this format for other Data Science case studies? Let me know — I’ll help you design a portfolio that **speaks business** 🔥  
-
